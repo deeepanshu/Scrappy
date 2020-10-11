@@ -1,5 +1,4 @@
 # Scrappy
-___
 
 #### Requirements
 1. NodeJs (12.14.1) - Runtime
