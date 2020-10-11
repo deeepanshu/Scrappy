@@ -13,6 +13,9 @@ Project was setup using `node` version `12.14.1`
 
 #### API
 
+Base URL
+``http://floating-reef-10580.herokuapp.com``
+
 Endpoint
 `` POST /api/parse ``
 
