@@ -6,5 +6,5 @@ module.exports.getOGTag = getOGTag;
 module.exports.getMetaTag = getMetaTag;
 
 module.exports.configs = {
-  PORT: 3000,
+  PORT: process.env.PORT || 3000,
 }
