@@ -72,7 +72,7 @@ OGParser.prototype.fallbacks = async function() {
     this.typeFallback();
   }
 
-  // this.removeUndefineds()
+  this.removeUndefineds()
 }
 
 /**
